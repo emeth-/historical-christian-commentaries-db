@@ -111,8 +111,14 @@
 		"death_year": 367,
 		"wiki": "https://en.wikipedia.org/wiki/Hilary_of_Poitiers"
 	},
-	"Isidore": 0,
-	"Isidore Of Peleusium": 0,
+	"Isidore of Seville": {
+		"death_year": 636,
+		"wiki": "https://en.wikipedia.org/wiki/Isidore_of_Seville"
+	},
+	"Isidore of Pelusium": {
+		"death_year": 450,
+		"wiki": "https://en.wikipedia.org/wiki/Isidore_of_Pelusium"
+	},
 	"Jerome": 0,
 	"Josephus": 0,
 	"Lanfranc": 0,
