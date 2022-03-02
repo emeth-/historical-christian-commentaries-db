@@ -147,9 +147,18 @@
 		"death_year": 390,
 		"wiki": "https://en.wikipedia.org/wiki/Nemesius"
 	},
-	"Origen": 0,
-	"Paschasius": 0,
-	"Petrus Alfonsus": 0,
+	"Origen of Alexandria": {
+		"death_year": 253,
+		"wiki": "https://en.wikipedia.org/wiki/Origen"
+	},
+	"Paschasius Radbertus": {
+		"death_year": 865,
+		"wiki": "https://en.wikipedia.org/wiki/Paschasius_Radbertus"
+	},
+	"Petrus Alphonsi": {
+		"death_year": 1130,
+		"wiki": "https://en.wikipedia.org/wiki/Petrus_Alphonsi"
+	},
 	"Pseudo-Athanasius": 0,
 	"Pseudo-Augustine": 0,
 	"Pseudo-Basil": 0,
