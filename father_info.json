@@ -131,7 +131,10 @@
 		"death_year": 1089,
 		"wiki": "https://en.wikipedia.org/wiki/Lanfranc"
 	},
-	"Leo": 0,
+	"Leo the Great": {
+		"death_year": 461,
+		"wiki": "https://en.wikipedia.org/wiki/Pope_Leo_I"
+	},
 	"Maximus": 0,
 	"Nemesius": 0,
 	"Origen": 0,
