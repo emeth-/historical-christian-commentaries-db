@@ -143,7 +143,10 @@
 		"death_year": 465,
 		"wiki": "https://en.wikipedia.org/wiki/Maximus_of_Turin"
 	},
-	"Nemesius": 0,
+	"Nemesius of Emesa": {
+		"death_year": 390,
+		"wiki": "https://en.wikipedia.org/wiki/Nemesius"
+	},
 	"Origen": 0,
 	"Paschasius": 0,
 	"Petrus Alfonsus": 0,
