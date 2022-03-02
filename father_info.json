@@ -175,9 +175,20 @@
 		"death_year": 553,
 		"wiki": "https://en.wikipedia.org/wiki/Second_Council_of_Constantinople"
 	},
-	"Severianus": 0,
-	"The Council Of Ephesus": 0,
-	"Theodotus": 0,
-	"Theophylact": 0,
-	"Titus Bostrensis": 0
+	"Council of Ephesus": {
+		"death_year": 431,
+		"wiki": "https://en.wikipedia.org/wiki/Council_of_Ephesus"
+	},
+	"Theodotus of Ancyra": {
+		"death_year": 446,
+		"wiki": "https://en.wikipedia.org/wiki/Theodotus_of_Ancyra_(bishop)"
+	},
+	"Theophylact of Ohrid": {
+		"death_year": 1107,
+		"wiki": "https://en.wikipedia.org/wiki/Theophylact_of_Ohrid"
+	},
+	"Titus of Bostra": {
+		"death_year": 378,
+		"wiki": "https://en.wikipedia.org/wiki/Titus_of_Bostra"
+	}
 }
