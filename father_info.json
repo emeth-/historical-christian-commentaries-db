@@ -135,7 +135,14 @@
 		"death_year": 461,
 		"wiki": "https://en.wikipedia.org/wiki/Pope_Leo_I"
 	},
-	"Maximus": 0,
+	"Maximus the Confessor": {
+		"death_year": 662,
+		"wiki": "https://en.wikipedia.org/wiki/Maximus_the_Confessor"
+	},
+	"Maximus of Turin": {
+		"death_year": 465,
+		"wiki": "https://en.wikipedia.org/wiki/Maximus_of_Turin"
+	},
 	"Nemesius": 0,
 	"Origen": 0,
 	"Paschasius": 0,
