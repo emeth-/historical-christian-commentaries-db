@@ -87,8 +87,14 @@
 		"death_year": 1480,
 		"wiki": "https://en.wikipedia.org/wiki/Glossa_Ordinaria"
 	},
-	"Greek Expositor": 0,
-	"Gregory": 0,
+	"Ancient Greek Expositor quoted by Aquinas": {
+		"death_year": 1274,
+		"wiki": ""
+	},
+	"Gregory the Dialogist": {
+		"death_year": 604,
+		"wiki": "https://en.wikipedia.org/wiki/Pope_Gregory_I"
+	},
 	"Gregory Nazianzen": 0,
 	"Gregory Of Nyssa": 0,
 	"Haymo": 0,
