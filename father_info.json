@@ -95,7 +95,10 @@
 		"death_year": 604,
 		"wiki": "https://en.wikipedia.org/wiki/Pope_Gregory_I"
 	},
-	"Gregory Nazianzen": 0,
+	"Gregory of Nazianzus": {
+		"death_year": 390,
+		"wiki": "https://en.wikipedia.org/wiki/Gregory_of_Nazianzus"
+	},
 	"Gregory Of Nyssa": 0,
 	"Haymo": 0,
 	"Hilary": 0,
