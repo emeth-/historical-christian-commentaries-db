@@ -99,7 +99,10 @@
 		"death_year": 390,
 		"wiki": "https://en.wikipedia.org/wiki/Gregory_of_Nazianzus"
 	},
-	"Gregory Of Nyssa": 0,
+	"Gregory of Nyssa": {
+		"death_year": 395,
+		"wiki": "https://en.wikipedia.org/wiki/Gregory_of_Nyssa"
+	},
 	"Haymo": 0,
 	"Hilary": 0,
 	"Isidore": 0,
