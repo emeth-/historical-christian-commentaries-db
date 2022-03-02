@@ -119,9 +119,18 @@
 		"death_year": 450,
 		"wiki": "https://en.wikipedia.org/wiki/Isidore_of_Pelusium"
 	},
-	"Jerome": 0,
-	"Josephus": 0,
-	"Lanfranc": 0,
+	"Jerome": {
+		"death_year": 420,
+		"wiki": "https://en.wikipedia.org/wiki/Jerome"
+	},
+	"Josephus": {
+		"death_year": 100,
+		"wiki": "https://en.wikipedia.org/wiki/Josephus"
+	},
+	"Lanfranc of Canterbury": {
+		"death_year": 1089,
+		"wiki": "https://en.wikipedia.org/wiki/Lanfranc"
+	},
 	"Leo": 0,
 	"Maximus": 0,
 	"Nemesius": 0,
