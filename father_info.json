@@ -107,7 +107,10 @@
 		"death_year": 853,
 		"wiki": "https://en.wikipedia.org/wiki/Haymo_of_Halberstadt"
 	},
-	"Hilary": 0,
+	"Hilary of Poitiers": {
+		"death_year": 367,
+		"wiki": "https://en.wikipedia.org/wiki/Hilary_of_Poitiers"
+	},
 	"Isidore": 0,
 	"Isidore Of Peleusium": 0,
 	"Jerome": 0,
