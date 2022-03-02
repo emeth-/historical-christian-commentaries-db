@@ -159,7 +159,10 @@
 		"death_year": 1130,
 		"wiki": "https://en.wikipedia.org/wiki/Petrus_Alphonsi"
 	},
-	"Pseudo-Athanasius": 0,
+	"Vigilius of Thapsus": {
+		"death_year": 484,
+		"wiki": "https://en.wikipedia.org/wiki/Vigilius_of_Thapsus"
+	},
 	"Pseudo-Augustine": 0,
 	"Pseudo-Basil": 0,
 	"Pseudo-Chrysostom": 0,
