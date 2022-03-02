@@ -163,15 +163,18 @@
 		"death_year": 484,
 		"wiki": "https://en.wikipedia.org/wiki/Vigilius_of_Thapsus"
 	},
-	"Pseudo-Augustine": 0,
-	"Pseudo-Basil": 0,
-	"Pseudo-Chrysostom": 0,
-	"Pseudo-Dionysius": 0,
-	"Pseudo-Jerome": 0,
-	"Pseudo-Origen": 0,
-	"Rabanus": 0,
-	"Remigius": 0,
-	"Second Council Of Constantinople": 0,
+	"Rabanus Maurus": {
+		"death_year": 856,
+		"wiki": "https://en.wikipedia.org/wiki/Rabanus_Maurus"
+	},
+	"Remigius of Rheims": {
+		"death_year": 533,
+		"wiki": "https://en.wikipedia.org/wiki/Saint_Remigius"
+	},
+	"Second Council of Constantinople": {
+		"death_year": 553,
+		"wiki": "https://en.wikipedia.org/wiki/Second_Council_of_Constantinople"
+	},
 	"Severianus": 0,
 	"The Council Of Ephesus": 0,
 	"Theodotus": 0,
