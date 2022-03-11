@@ -190,5 +190,77 @@
 	"Titus of Bostra": {
 		"death_year": 378,
 		"wiki": "https://en.wikipedia.org/wiki/Titus_of_Bostra"
+	},
+	"1 Corinthians": {
+		"death_year": 55,
+		"wiki": "https://en.wikipedia.org/wiki/First_Epistle_to_the_Corinthians"
+	},
+	"1 Peter": {
+		"death_year": 65,
+		"wiki": "https://en.wikipedia.org/wiki/First_Epistle_of_Peter"
+	},
+	"1 Timothy": {
+		"death_year": 64,
+		"wiki": "https://en.wikipedia.org/wiki/First_Epistle_to_Timothy"
+	},
+	"2 Corinthians": {
+		"death_year": 56,
+		"wiki": "https://en.wikipedia.org/wiki/Second_Epistle_to_the_Corinthians"
+	},
+	"2 Peter": {
+		"death_year": 68,
+		"wiki": "https://en.wikipedia.org/wiki/Second_Epistle_of_Peter"
+	},
+	"Acts": {
+		"death_year": 62,
+		"wiki": "https://en.wikipedia.org/wiki/Acts_of_the_Apostles"
+	},
+	"Ephesians": {
+		"death_year": 62,
+		"wiki": "https://en.wikipedia.org/wiki/Epistle_to_the_Ephesians"
+	},
+	"Galatians": {
+		"death_year": 50,
+		"wiki": "https://en.wikipedia.org/wiki/Epistle_to_the_Galatians"
+	},
+	"Hebrews": {
+		"death_year": 69,
+		"wiki": "https://en.wikipedia.org/wiki/Epistle_to_the_Hebrews"
+	},
+	"James": {
+		"death_year": 49,
+		"wiki": "https://en.wikipedia.org/wiki/Epistle_of_James"
+	},
+	"John": {
+		"death_year": 90,
+		"wiki": "https://en.wikipedia.org/wiki/Gospel_of_John"
+	},
+	"Jude": {
+		"death_year": 70,
+		"wiki": "https://en.wikipedia.org/wiki/Epistle_of_Jude"
+	},
+	"Luke": {
+		"death_year": 61,
+		"wiki": "https://en.wikipedia.org/wiki/Gospel_of_Luke"
+	},
+	"Mark": {
+		"death_year": 60,
+		"wiki": "https://en.wikipedia.org/wiki/Gospel_of_Mark"
+	},
+	"Matthew": {
+		"death_year": 60,
+		"wiki": "https://en.wikipedia.org/wiki/Gospel_of_Matthew"
+	},
+	"Philippians": {
+		"death_year": 62,
+		"wiki": "https://en.wikipedia.org/wiki/Epistle_to_the_Philippians"
+	},
+	"Revelation": {
+		"death_year": 96,
+		"wiki": "https://en.wikipedia.org/wiki/Book_of_Revelation"
+	},
+	"Romans": {
+		"death_year": 56,
+		"wiki": "https://en.wikipedia.org/wiki/Epistle_to_the_Romans"
 	}
 }
