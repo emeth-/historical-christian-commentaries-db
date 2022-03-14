@@ -262,5 +262,9 @@
 	"Romans": {
 		"death_year": 56,
 		"wiki": "https://en.wikipedia.org/wiki/Epistle_to_the_Romans"
+	},
+	"Cassiodorus": {
+		"death_year": 585,
+		"wiki": "https://en.wikipedia.org/wiki/Cassiodorus"
 	}
 }
