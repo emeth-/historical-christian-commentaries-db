@@ -32,13 +32,13 @@ We also accept that for some people, it is not possible/necessary. For example, 
 ## File Contents Format
 
 - Each file contains a json value.
--- This can be a single object, or a list of objects, either is fine. 
+  - This can be a single object, or a list of objects, either is fine. 
 - Mandatory keys
--- `quote`: The source quotation, can include unicode but should not include any html
--- `sources`: a list of objects with "url" and "title" values, should always include at least one source.
+  - `quote`: The source quotation, can include unicode but should not include any html
+  - `sources`: a list of objects with "url" and "title" values, should always include at least one source.
 - Optional keys
--- `append_to_author_name`: Use this for things like when you are quoting from a secondary source, e.g. if Aquinas said that Jerome said something, put the quote under Jerome, but in append_to_author_name put the value " (as quoted by Aquinas)"
--- `time`: The year A.D. that the writing was written. Use a negative value for B.C. Should be just a single numerical value. If not supplied, defaults to metadata.json's death year for the Church Father.
+  - `append_to_author_name`: Use this for things like when you are quoting from a secondary source, e.g. if Aquinas said that Jerome said something, put the quote under Jerome, but in append_to_author_name put the value " (as quoted by Aquinas)"
+  - `time`: The year A.D. that the writing was written. Use a negative value for B.C. Should be just a single numerical value. If not supplied, defaults to metadata.json's death year for the Church Father.
 
 Example with append_to_author_name:
 ```
