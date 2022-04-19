@@ -266,5 +266,13 @@
 	"Cassiodorus": {
 		"death_year": 585,
 		"wiki": "https://en.wikipedia.org/wiki/Cassiodorus"
+	},
+	"Martin Luther": {
+		"death_year": 1546,
+		"wiki": "https://en.wikipedia.org/wiki/Martin_Luther"
+	},
+	"John Calvin": {
+		"death_year": 1564,
+		"wiki": "https://en.wikipedia.org/wiki/John_Calvin"
 	}
 }
