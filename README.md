@@ -34,7 +34,7 @@ We also accept that for some people, it is not possible/necessary. For example, 
 - Each file contains a json value.
   - This can be a single object, or a list of objects, either is fine. 
 - Mandatory keys
-  - `quote`: The source quotation, can include unicode but should not include any html
+  - `quote`: The source quotation, can include unicode as HTML entities but should not include any html
   - `sources`: a list of objects with "url" and "title" values, should always include at least one source.
 - Optional keys
   - `append_to_author_name`: Use this for things like when you are quoting from a secondary source, e.g. if Aquinas said that Jerome said something, put the quote under Jerome, but in append_to_author_name put the value " (as quoted by Aquinas)"
