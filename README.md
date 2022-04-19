@@ -40,7 +40,7 @@ We also accept that for some people, it is not possible/necessary. For example, 
   - `append_to_author_name`: Use this for things like when you are quoting from a secondary source, e.g. if Aquinas said that Jerome said something, put the quote under Jerome, but in append_to_author_name put the value " (as quoted by Aquinas)"
   - `time`: The year A.D. that the writing was written. Use a negative value for B.C. Should be just a single numerical value. If not supplied, defaults to metadata.json's death year for the Church Father.
 
-Example with append_to_author_name:
+Minimal Example:
 ```
 {
     "quote": "commentary by a church father goes here.",
@@ -49,8 +49,7 @@ Example with append_to_author_name:
             "url": "https://example.com",
             "title": "Name of book church father wrote"
         }
-    ],
-    "append_to_author_name": " (as quoted by Aquinas)"
+    ]
 }
 ```
 
