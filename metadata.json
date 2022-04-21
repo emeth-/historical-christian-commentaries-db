@@ -286,5 +286,9 @@
 	"Ephrem the Syrian": {
 		"death_year": 373,
 		"wiki": "https://en.wikipedia.org/wiki/Ephrem_the_Syrian"
+	},
+	"Lateran Council of 649": {
+		"death_year": 649,
+		"wiki": "https://en.wikipedia.org/wiki/Lateran_Council_of_649"
 	}
 }
