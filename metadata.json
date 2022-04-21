@@ -290,5 +290,13 @@
 	"Lateran Council of 649": {
 		"death_year": 649,
 		"wiki": "https://en.wikipedia.org/wiki/Lateran_Council_of_649"
+	},
+	"Thomas Aquinas": {
+		"death_year": 1274,
+		"wiki": "https://en.wikipedia.org/wiki/Thomas_Aquinas"
+	},
+	"Ulrich Zwingli": {
+		"death_year": 1531,
+		"wiki": "https://en.wikipedia.org/wiki/Huldrych_Zwingli"
 	}
 }
