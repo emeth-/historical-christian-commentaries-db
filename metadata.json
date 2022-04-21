@@ -282,5 +282,9 @@
 	"Protoevangelium of James": {
 		"death_year": 150,
 		"wiki": "https://en.wikipedia.org/wiki/Gospel_of_James"
+	},
+	"Ephrem the Syrian": {
+		"death_year": 373,
+		"wiki": "https://en.wikipedia.org/wiki/Ephrem_the_Syrian"
 	}
 }
