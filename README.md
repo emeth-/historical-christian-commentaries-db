@@ -37,7 +37,7 @@ We also accept that for some people, it is not possible/necessary. For example, 
   - `quote`: The source quotation, can include unicode as HTML entities but should not include any html
   - `sources`: a list of objects with "url" and "title" values, should always include at least one source.
 - Optional keys
-  - `append_to_author_name`: Use this for things like when you are quoting from a secondary source, e.g. if Aquinas said that Jerome said something, put the quote under Jerome, but in append_to_author_name put the value " (as quoted by Aquinas)"
+  - `append_to_author_name`: Use this for things like when you are quoting from a secondary source, e.g. if Aquinas said that Jerome said something, put the quote under Jerome, but in append_to_author_name put the value " (as quoted by Aquinas, AD 1274)"
   - `time`: The year A.D. that the writing was written. Use a negative value for B.C. Should be just a single numerical value. If not supplied, defaults to metadata.json's death year for the Church Father.
 
 Minimal Example:
@@ -68,7 +68,7 @@ Example with multiple quotes from 1 church father on 1 passage of scripture
                 "title": "Catena Aurea by Aquinas"
             }
         ],
-        "append_to_author_name": " (as quoted by Aquinas)"
+        "append_to_author_name": " (as quoted by Aquinas, AD 1274)"
     },
     {
         "quote": "Long quotation from a church father\n\nThis text is on a new line",
