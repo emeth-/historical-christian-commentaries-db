@@ -302,5 +302,9 @@
 	"John Wesley": {
 		"death_year": 1791,
 		"wiki": "https://en.wikipedia.org/wiki/John_Wesley"
+	},
+	"Chromatius of Aquileia": {
+		"death_year": 406,
+		"wiki": "https://en.wikipedia.org/wiki/Chromatius"
 	}
 }
