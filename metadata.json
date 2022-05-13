@@ -306,5 +306,9 @@
 	"Chromatius of Aquileia": {
 		"death_year": 406,
 		"wiki": "https://en.wikipedia.org/wiki/Chromatius"
+	},
+	"Hegesippus": {
+		"death_year": 180,
+		"wiki": "https://en.wikipedia.org/wiki/Hegesippus_(chronicler)"
 	}
 }
