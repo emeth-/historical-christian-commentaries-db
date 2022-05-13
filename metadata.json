@@ -310,5 +310,13 @@
 	"Hegesippus": {
 		"death_year": 180,
 		"wiki": "https://en.wikipedia.org/wiki/Hegesippus_(chronicler)"
+	},
+	"Papias of Hierapolis": {
+		"death_year": 130,
+		"wiki": "https://en.wikipedia.org/wiki/Papias_of_Hierapolis"
+	},
+	"Irenaeus": {
+		"death_year": 202,
+		"wiki": "https://en.wikipedia.org/wiki/Irenaeus"
 	}
 }
