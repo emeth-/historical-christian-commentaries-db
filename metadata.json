@@ -330,5 +330,9 @@
 	"Papias the Lexicographer": {
 		"death_year": 1060,
 		"wiki": "https://en.wikipedia.org/wiki/Papias_(lexicographer)"
+	},
+	"Gospel of the Hebrews": {
+		"death_year": 150,
+		"wiki": "https://en.wikipedia.org/wiki/Gospel_of_the_Hebrews"
 	}
 }
