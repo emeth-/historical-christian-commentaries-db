@@ -334,5 +334,17 @@
 	"Gospel of the Hebrews": {
 		"death_year": 150,
 		"wiki": "https://en.wikipedia.org/wiki/Gospel_of_the_Hebrews"
+	},
+	"Justin Martyr": {
+		"death_year": 165,
+		"wiki": "https://en.wikipedia.org/wiki/Justin_Martyr"
+	},
+	"Hippolytus of Rome": {
+		"death_year": 235,
+		"wiki": "https://en.wikipedia.org/wiki/Hippolytus_of_Rome"
+	},
+	"Acts of Peter": {
+		"death_year": 200,
+		"wiki": "https://en.wikipedia.org/wiki/Acts_of_Peter"
 	}
 }
