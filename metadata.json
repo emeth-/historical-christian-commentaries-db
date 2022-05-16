@@ -346,5 +346,21 @@
 	"Acts of Peter": {
 		"death_year": 200,
 		"wiki": "https://en.wikipedia.org/wiki/Acts_of_Peter"
+	},
+	"Muratorian fragment": {
+		"death_year": 170,
+		"wiki": "https://en.wikipedia.org/wiki/Muratorian_fragment"
+	},
+	"Clement of Rome": {
+		"death_year": 99,
+		"wiki": "https://en.wikipedia.org/wiki/Pope_Clement_I"
+	},
+	"Tertullian": {
+		"death_year": 220,
+		"wiki": "https://en.wikipedia.org/wiki/Tertullian"
+	},
+	"Peter of Alexandria": {
+		"death_year": 311,
+		"wiki": "https://en.wikipedia.org/wiki/Peter_I_of_Alexandria"
 	}
 }
