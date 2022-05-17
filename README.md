@@ -1,16 +1,17 @@
 # historical-christian-commentaries-db
 
-## FILE NAME FORMAT:
+## FILE NAME FORMATS:
 
 ```
+[Father-Name]/[Book-Name] Chapter_Verse.json
 [Father-Name]/[Book-Name] Chapter_Verse-Verse.json
 [Father-Name]/[Book-Name] Chapter_Verse-Chapter_Verse.json
 ```
 
 Examples:
+- A commentary by Augustine on Matthew 23:35 = Filename: `Augustine/Matthew 23_35.json`
 - A commentary by Jerome on Matthew 23:35-41 = Filename: `Jerome/Matthew 23_35-41.json`
-- A commentary by Isidore of Seville on Matthew 23:35-24:7 = Filename: `Isidore of Seville/Matthew 23_35-24_7.json`
-- A commentary by Basil of Caesarea on 1 Kings 19:10-18 = Filename: `Basil of Caesarea/1 Kings 19_10-18.json`
+- A commentary by Basil of Caesarea on 1 Kings 19:10-20:3 = Filename: `Basil of Caesarea/1 Kings 19_10-20_3.json`
 
 So the basic rule is write the 'long form' name of everything (books/people), and replace colons (:) with underscores (_). That's it.
 
