@@ -370,5 +370,13 @@
 	"LB Lightfoot": {
 		"death_year": 1889,
 		"wiki": "https://en.wikipedia.org/wiki/J._B._Lightfoot"
+	},
+	"Julius Africanus": {
+		"death_year": 240,
+		"wiki": "https://en.wikipedia.org/wiki/Sextus_Julius_Africanus"
+	},
+	"Apollinarius of Laodicea": {
+		"death_year": 382,
+		"wiki": "https://en.wikipedia.org/wiki/Apollinaris_of_Laodicea"
 	}
 }
